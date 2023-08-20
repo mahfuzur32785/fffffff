@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486605426879",
+    "project_id": "dawa-salamah",
+    "storage_bucket": "dawa-salamah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486605426879:android:510f11eed65167ceae360a",
+        "android_client_info": {
+          "package_name": "com.salamahlife.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486605426879-m5agaall06n43adgf89d8o3eqq93f9av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Qj7C8xB2giwkygqMq6DQB5B7jTX6Nws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486605426879-m5agaall06n43adgf89d8o3eqq93f9av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
